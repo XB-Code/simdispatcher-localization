@@ -1,0 +1,68 @@
+resources/Localization/it-IT/strings.it-IT.json
+{
+  "GoAhead": "Procedi",
+  "Confirmed": "Confermato",
+  "ConfirmationEnded": "Conferma terminata",
+  "Standby": "In attesa",
+  "Repeat": "Ripeti",
+
+  "QuestionStatus": "Domanda: Stato",
+  "QuestionDestination": "Domanda: Destinazione",
+  "QuestionPatientName": "Nome paziente",
+
+  "DoctorNotAvailable": "Medico non disponibile",
+  "DoctorOnTheWay": "Medico in arrivo",
+
+  "AbortOperation": "Annulla operazione",
+
+  "FollowUpNote": "Nota di follow-up",
+  "FollowUpNoteUrgent": "Nota urgente",
+
+  "EmergencyCall": "Chiamata di emergenza",
+  "PatientTransportCall": "Trasporto paziente",
+  "OfficeCall": "Chiamata ufficio",
+
+  "EmergencyLocation": "Luogo emergenza",
+  "WhatHappened": "Cosa è successo",
+  "PatientName": "Nome del paziente",
+  "ConsciousState": "Stato di coscienza",
+  "Breathing": "Respirazione",
+  "Pain": "Dolore",
+  "Injuries": "Ferite",
+  "PreviousConditions": "Patologie pregresse",
+  "Therapies": "Terapie",
+  "Age": "Età",
+
+  "HelpOnTheWay": "Soccorso in arrivo",
+  "SendDoctor": "Invio medico",
+
+  "Police": "Polizia",
+  "Ambulance": "Ambulanza",
+  "Firefighters": "Vigili del fuoco",
+
+  "EmergencyNumber": "Numero di emergenza",
+  "PatientTransportNumber": "Numero trasporto pazienti",
+  "OfficeNumber": "Numero ufficio",
+
+  "CallWith": "Chiamata con",
+  "StartConversation": "Inizio conversazione",
+
+  "IncidentReport": "Rapporto incidente",
+  "Documentation": "Documentazione",
+
+  "Dispatch": "Invia soccorso",
+  "Suggestion": "Suggerimento",
+
+  "Close": "Chiudi",
+  "Merge": "Unisci",
+  "Split": "Dividi",
+  "Duplicate": "Duplica",
+  "New": "Nuovo",
+
+  "JumpCaller": "Vai al campo chiamante",
+  "JumpScheduled": "Vai al campo pianificazione",
+  "JumpLocationObject": "Vai al luogo: oggetto",
+  "JumpLocationAddress": "Vai al luogo: indirizzo",
+
+  "ExecuteRequiredTasks": "Esegui tutte le attività richieste"
+}
